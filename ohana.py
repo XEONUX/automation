@@ -1,4 +1,4 @@
 import os
 
 print "Hello World"
-print "goog"
+print "google amazon"
